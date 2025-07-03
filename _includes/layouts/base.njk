@@ -21,6 +21,12 @@
 		3. Learn more: https://github.com/11ty/eleventy-plugin-bundle
 		#}
 
+		{% if previewImage %}
+		<meta property="og:image" content="{{ previewImage }}">
+		<meta name="twitter:image" content="{{ previewImage }}">
+		<meta name="twitter:card" content="summary_large_image">
+		{% endif %}
+
 		{#- Add CSS to the bundle #}
 		<style>/* This is an arbitrary CSS string added to the bundle */</style>
 
