@@ -26,7 +26,10 @@ friendly, with a picnic setup and a summer sunset in the background.
 
 I fed the prompt to Veo 3 and got this result.  It turned out really well.
 
-![pic](invited-placeholder.png)
+<video width="700" controls poster="invited-placeholder.png">
+  <source src="invited-placeholder.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Photo ➡️ ChatGPT ➡️ Keyfame images
 For the rest of the video, I wanted to have cartoon versions of my family doing summer activities, like golfing or canoeing. To start, I first gave ChatGPT a photo of a family member by themselves. 
@@ -53,8 +56,17 @@ Once I finished animating all my family members, I inserted the image into Veo 2
 
 Throughout this process, I also tried using Veo 2 Quality instead of Veo 2 Fast, and although the quality version takes a little longer to load, the scenes make more sense. For instance, when I wanted to create a clip where my sister roasted a marshmallow, the Fast version couldn’t create that. But, when I used Quality, it created a video in one go.
 
-<img width="300" alt="marshmellow-fast" src="marshmellow-fast.png" />  
-<img width="300" alt="marshmellow-quality" src="marshmellow-quality.png" />
+Fast
+<video controls poster="marshmallow-fast.png" style="width:500px; max-width:100%; display:block;">
+  <source src="marshmallow-fast.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+Quality
+<video controls poster="marshmallow-quality.png" style="width:500px; max-width:100%; display:block;">
+  <source src="marshmallow-quality.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 Overall when creating this video, I experimented with ChatGPT, Veo 2 and Veo 3.

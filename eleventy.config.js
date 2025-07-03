@@ -19,7 +19,10 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("content/**/*.MOV");
 	eleventyConfig.addPassthroughCopy("content/**/*.mov");
 	eleventyConfig.addPassthroughCopy("content/**/*.mp4");
+	eleventyConfig.addPassthroughCopy("content/**/*.JPG");
 	eleventyConfig.addPassthroughCopy("content/**/*.jpg");
+	eleventyConfig.addPassthroughCopy("content/**/*.PNG");
+	eleventyConfig.addPassthroughCopy("content/**/*.png");
 
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`
