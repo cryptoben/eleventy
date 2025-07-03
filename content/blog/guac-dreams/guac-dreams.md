@@ -2,18 +2,25 @@
 title: Guac Dreams with Veo2 🥑🧅🍅
 description: This is a description.
 date: 2025-06-27
+previewImage: "GuacDreams.jpg"
 tags: post
 ---
 
 This video is about a chef who makes guacamole. It starts off with the chef’s dream, where families of avocado, red onion, and yellow tomato families do normal things in a park like walk, play on the swings, or read a book. The chef wakes up, and feeling hungry, he goes into his backyard garden to gather the ingredients. He then blends the ingredients into guacamole, and enjoys it with tortilla chips.
 
-### Steps
+<video width="700" controls poster="GuacDreams.jpg">
+  <source src="GuacDreams-720p.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+### Generating video with prompts
 To make this video, I used [Veo 2](https://deepmind.google/models/veo/) to generate images of the vegetables doing things. At first, It was difficult, because I couldn't get the vegetables to do the things that I wanted. 
 
 For example, when I wanted a family of tomatoes to play on the slides at the park, my prompt was:
  
 > The camera shifts to the left, and reveals a toddler red tomato sliding down a blue slide on the park's playground. The adult red tomato is standing and watching the toddler tomato.
-ß
+
 <img width="700" alt="Screenshot 2025-07-01 at 10 19 14 PM" src="pic1.png" />
 
 This was the result I got. Although Veo 2 included elements that I wanted, the vegetables were onions, not tomatoes. After two tries of similar things like this happening, I decided to have the tomatoes do a different motion. My prompt was:
@@ -30,6 +37,7 @@ The product was this, and although the scene didn’t include a picnic, it worke
 
 <img width="700" alt="Screenshot 2025-07-01 at 10 19 14 PM" src="pic3.png" />
 
+### Veo 2 Works Better From an Image
 I realized that even a simple prompt could be harder when building off of another scene, so instead of expanding a current scene that I already had of a chef walking into the garden, I used the image of the chef to keep the same person, but change the background. My prompt was:
 
 > The chef walks in his own small personal garden. He stops in front of an avocado tree, and picks two ripe avocados.

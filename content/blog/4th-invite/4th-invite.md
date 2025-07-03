@@ -2,6 +2,8 @@
 title: 4th of July Video (Veo 2 and 3) 🎇⛳🛶🛵🪂
 description: Making videos with ChatGPT, Veo 2 and Veo 3.
 date: 2025-07-01
+previewImage: "4th-invite-thumb.jpg"
+tags: post
 ---
 <img width="1" alt="preview" src="4th-invite-thumb.jpg" /> 
 
