@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+On this website, I'm documenting my progress on different things I experiment with online, like Veo 2 and 3, and sharing my thought process.
