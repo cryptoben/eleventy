@@ -1,8 +1,7 @@
 ---
 title: 4th of July Video (Veo 2 and 3) 🎇⛳🛶🛵🪂
-description: This is a description.
+description: Making videos with ChatGPT, Veo 2 and Veo 3.
 date: 2025-07-01
-tags: post
 ---
 
 I created this invite video for a 4th of July party. 
@@ -11,6 +10,7 @@ I created this invite video for a 4th of July party.
   <source src="4th-invite.MOV" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<img width="1" alt="preview" src="4th-invite-thumb.jpg" /> 
 
 
 ## Veo 3 with ChatGPT help
