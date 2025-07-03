@@ -7,8 +7,8 @@ tags: post
 
 I created this invite video for a 4th of July party. 
 
-<video width="700" controls poster="/video/4th-invite-thumb.jpg">
-  <source src="/video/4th-invite.MOV" type="video/mp4">
+<video width="700" controls poster="4th-invite-thumb.jpg">
+  <source src="4th-invite.MOV" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -26,7 +26,7 @@ friendly, with a picnic setup and a summer sunset in the background.
 
 I fed the prompt to Veo 3 and got this result.  It turned out really well.
 
-<img width="800" alt="invited-placeholder" src="invited-placeholder.png" />
+![pic](invited-placeholder.png)
 
 ## Photo ➡️ ChatGPT ➡️ Keyfame images
 For the rest of the video, I wanted to have cartoon versions of my family doing summer activities, like golfing or canoeing. To start, I first gave ChatGPT a photo of a family member by themselves. 
@@ -44,7 +44,7 @@ The result was the image to the right.
 
 Although the image turned out well, I wanted a different background. ChatGPT allows me to recompose the photo with a prompt, so when I wanted the character in a golfcourse, the result was pretty good.
 
-<img width="700" alt="girl-bunny-golfcourse" src="https://github.com/user-attachments/assets/5ef514be-1c67-4da9-b39b-348070ec31cb" />
+![pic](girl-bunny-golfcourse.png)
 
 The reason why I didn’t use Veo 2 for animating, was because even simple tasks like walking into a garden could be hard for it to create.  To make sure there was less variation and more accuracy, I "keyframed" an initial scene with ChatGPT assistance, so I could more quickly get the character and background I wanted. 
 
@@ -53,7 +53,8 @@ Once I finished animating all my family members, I inserted the image into Veo 2
 
 Throughout this process, I also tried using Veo 2 Quality instead of Veo 2 Fast, and although the quality version takes a little longer to load, the scenes make more sense. For instance, when I wanted to create a clip where my sister roasted a marshmallow, the Fast version couldn’t create that. But, when I used Quality, it created a video in one go.
 
-<img width="300" alt="marshmellow-fast" src="marshmellow-fast.png" />  <img width="300" alt="marshmellow-quality" src="marshmellow-quality.png" />
+<img width="300" alt="marshmellow-fast" src="marshmellow-fast.png" />  
+<img width="300" alt="marshmellow-quality" src="marshmellow-quality.png" />
 
 
 Overall when creating this video, I experimented with ChatGPT, Veo 2 and Veo 3.
